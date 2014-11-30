@@ -8,6 +8,7 @@ namespace MVCTFSSample.Controllers
 {
     public class HomeController : Controller
     {
+        // Index methodu
         public ActionResult Index()
         {
             ViewBag.Message = "Çok Özel Bir Mesaj.";
