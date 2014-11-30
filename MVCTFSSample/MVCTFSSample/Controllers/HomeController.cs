@@ -10,6 +10,7 @@ namespace MVCTFSSample.Controllers
     {
         public ActionResult Index()
         {
+            //fsdfsdfs
             ViewBag.Message = "Çok Özel Bir Mesaj.";
 
             return View();
